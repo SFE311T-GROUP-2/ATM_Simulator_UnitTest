@@ -193,7 +193,7 @@ int main() {
 			break;
 		case 3:
 			account.Deposit();
-			break;
+			break; 
 		case 4:
 			isNotFinished = false;
 			break;
